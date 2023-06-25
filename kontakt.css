@@ -1,0 +1,28 @@
+.nowości {
+    border: none;
+    background-color: aqua;
+    color: red;
+    width: auto;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    font-size: 200%
+}
+.nowości:hover {
+    color: blue;
+}
+.przedmioty {
+    border: none;
+    background-color: aqua;
+    color: red;
+    width: auto;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+.przedmioty:hover {
+    color: blue;
+}
+  
