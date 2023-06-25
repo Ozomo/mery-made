@@ -7,7 +7,7 @@
 }
 .kontakt {
     border: none;
-    background-color: white;
+    background-color: aquamarine;
     color: red;
     width: auto;
     font-size: 200%;
@@ -20,6 +20,21 @@
 
 }
 .kontakt:hover {
+    color: blue;
+}
+.przedmioty {
+    border: none;
+    background-color: aquamarine;
+    color: red;
+    width: auto;
+    font-size: 200%;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+}
+.przedmioty:hover {
     color: blue;
 }
   
