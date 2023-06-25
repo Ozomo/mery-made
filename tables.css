@@ -1,8 +1,10 @@
 .table_1 {
     border: none;
+    border-color: aqua;
     background-color: aqua;
 }
 .table_2 {
     border: none;
+    border-color: aquamarine;
     background-color: aquamarine;
 }
