@@ -16,9 +16,7 @@ body {
     border: none;
     background-color: aqua;
     color: red;
-    width: auto;
     font-size: 200%;
-    text-align: center;
     transition-duration: 0.4s;
     cursor: pointer;
 }
@@ -29,35 +27,44 @@ body {
     border: none;
     background-color: aqua;
     color: red;
-    width: auto;
     font-size: 200%;
-    text-align: center;
     transition-duration: 0.4s;
     cursor: pointer;
 }
 .przedmioty:hover {
     color: blue;
 }
-.news {
+.nowości {
+    border: none;
+    background-color: aqua;
+    color: red;
+    font-size: 200%;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.nowości:hover {
+    color: blue;
+}
+.tekst {
     text-align: center;
     padding-top: 30px;
 }
 .buttons {
-    text-align: center;
     background-color: aqua;
     margin-left: -8px;
     margin-right: -8px;
 }
-.buttons a {
-    padding-right: 20%
+.button_1 {
+
+    text-decoration:none;
+    padding-left: 10%;
+    text-align: left;
 }
-.buttons a1 {
-    padding-left: 2%
+.button_2 {
+
+    text-decoration:none;
+    margin-right: 10%;
+    text-align: right;
 }
-a {
-    text-decoration:none
-}
-a1 {
-    text-decoration:none
-}
+
   

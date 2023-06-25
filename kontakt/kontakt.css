@@ -25,4 +25,68 @@
 .przedmioty:hover {
     color: blue;
 }
+
+body {
+    background-color: blanchedalmond;
+}
+.mery {
+    color: black;
+    width: auto;
+    text-align: center;
+    font-size: 300%;
+    background-color: aquamarine;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px
+
+}
+.kontakt {
+    border: none;
+    background-color: aqua;
+    color: red;
+    width: auto;
+    font-size: 200%;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.kontakt:hover {
+    color: blue;
+}
+.przedmioty {
+    border: none;
+    background-color: aqua;
+    color: red;
+    width: auto;
+    font-size: 200%;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.przedmioty:hover {
+    color: blue;
+}
+.tekst {
+    text-align: center;
+    padding-top: 30px;
+}
+.buttons {
+    text-align: center;
+    background-color: aqua;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.buttons a {
+    padding-right: 20%
+}
+.buttons a1 {
+    padding-left: 2%
+}
+a {
+    text-decoration:none
+}
+a1 {
+    text-decoration:none
+}
+  
   
