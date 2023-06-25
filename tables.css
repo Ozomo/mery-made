@@ -1,12 +1,16 @@
 .table_1 {
     border: none;
-    border-color: aqua;
     background-color: aqua;
     text-align: center;
 }
 .table_2 {
     border: none;
-    border-color: aquamarine;
     background-color: aquamarine;
     text-align: center;
+    width: 
+}
+.table_3 td{
+    text-align: center;
+    padding-top: 50px;
+    font-size: larger;
 }

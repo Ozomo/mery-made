@@ -14,9 +14,6 @@
     text-align: center;
     transition-duration: 0.4s;
     cursor: pointer;
-    margin: left;
-    
-
 }
 .kontakt:hover {
     color: blue;
@@ -30,7 +27,6 @@
     text-align: center;
     transition-duration: 0.4s;
     cursor: pointer;
-    margin: auto;
 }
 .przedmioty:hover {
     color: blue;
