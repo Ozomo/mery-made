@@ -2,11 +2,11 @@ body {
     background-color: blanchedalmond;
 }
 .mery {
-    color: black;
+    color: white;
     width: auto;
     text-align: center;
     font-size: 400%;
-    background-color: aquamarine;
+    background-color: #636262;
     margin-top: -8px;
     margin-left: -8px;
     margin-right: -8px
@@ -48,6 +48,7 @@ body {
 .tekst {
     text-align: center;
     padding-top: 30px;
+    font-size: 25px;
 }
 .buttons {
     background-color: #292b2a;
