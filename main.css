@@ -14,8 +14,8 @@ body {
 }
 .kontakt {
     border: none;
-    background-color: aqua;
-    color: red;
+    background-color: #292b2a;
+    color: white;
     width: auto;
     font-size: 200%;
     text-align: center;
@@ -23,12 +23,12 @@ body {
     cursor: pointer;
 }
 .kontakt:hover {
-    color: blue;
+    color: #4f4d4d;
 }
 .przedmioty {
     border: none;
-    background-color: aqua;
-    color: red;
+    background-color: #292b2a;
+    color: white;
     width: auto;
     font-size: 200%;
     text-align: center;
@@ -36,7 +36,7 @@ body {
     cursor: pointer;
 }
 .przedmioty:hover {
-    color: blue;
+    color: #4f4d4d;
 }
 .tekst {
     text-align: center;
@@ -44,20 +44,26 @@ body {
 }
 .buttons {
     text-align: center;
-    background-color: aqua;
+    background-color: #292b2a;
     margin-left: -8px;
     margin-right: -8px;
-}
-.buttons a {
-    padding-right: 20%
-}
-.buttons a1 {
-    padding-left: 2%
 }
 a {
     text-decoration:none
 }
-a1 {
-    text-decoration:none
+.nowości {
+    border: none;
+    background-color: #292b2a;
+    color: #4f4d4d;
+    width: auto;
+    font-size: 200%;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
 }
+th {
+    text-align: center;
+    width: 1%;
+}
+
   

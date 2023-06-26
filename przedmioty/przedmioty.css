@@ -14,57 +14,49 @@ body {
 }
 .kontakt {
     border: none;
-    background-color: aqua;
-    color: red;
+    background-color: #292b2a;
+    color: white;
     font-size: 200%;
     transition-duration: 0.4s;
     cursor: pointer;
 }
 .kontakt:hover {
-    color: blue;
+    color: #4f4d4d;
 }
 .przedmioty {
     border: none;
-    background-color: aqua;
-    color: red;
+    background-color: #292b2a;
+    color: #4f4d4d;
     font-size: 200%;
     transition-duration: 0.4s;
     cursor: pointer;
 }
 .przedmioty:hover {
-    color: blue;
+    color: #4f4d4d;
 }
 .nowości {
     border: none;
-    background-color: aqua;
-    color: red;
+    background-color: #292b2a;
+    color: white;
     font-size: 200%;
     transition-duration: 0.4s;
     cursor: pointer;
 }
 .nowości:hover {
-    color: blue;
+    color: #4f4d4d;
 }
 .tekst {
     text-align: center;
     padding-top: 30px;
 }
 .buttons {
-    background-color: aqua;
+    background-color: #292b2a;
     margin-left: -8px;
     margin-right: -8px;
 }
-.button_1 {
-
-    text-decoration:none;
-    padding-left: 10%;
-    text-align: left;
-}
-.button_2 {
-
-    text-decoration:none;
-    margin-right: 10%;
-    text-align: right;
+th {
+    text-align: center;
+    width: 1%;
 }
 
   
