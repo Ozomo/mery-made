@@ -12,28 +12,6 @@ body {
     margin-right: -8px
 
 }
-.kontakt {
-    border: none;
-    background-color: #292b2a;
-    color: white;
-    font-size: 200%;
-    transition-duration: 0.4s;
-    cursor: pointer;
-}
-.kontakt:hover {
-    color: #4f4d4d;
-}
-.przedmioty {
-    border: none;
-    background-color: #292b2a;
-    color: #4f4d4d;
-    font-size: 200%;
-    transition-duration: 0.4s;
-    cursor: pointer;
-}
-.przedmioty:hover {
-    color: #4f4d4d;
-}
 .nowości {
     border: none;
     background-color: #292b2a;
@@ -45,6 +23,25 @@ body {
 .nowości:hover {
     color: #4f4d4d;
 }
+.przedmioty {
+    border: none;
+    background-color: #292b2a;
+    color: #4f4d4d;
+    font-size: 200%;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.kontakt {
+    border: none;
+    background-color: #292b2a;
+    color: white;
+    font-size: 200%;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.kontakt:hover {
+    color: #4f4d4d;
+}
 .tekst {
     text-align: center;
     padding-top: 30px;
@@ -54,6 +51,9 @@ body {
     background-color: #292b2a;
     margin-left: -8px;
     margin-right: -8px;
+}
+a {
+    text-decoration:none;
 }
 th {
     text-align: center;
