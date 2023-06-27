@@ -68,9 +68,9 @@ a {
     text-decoration:none;
 }
 .profilowe {
-    width: 30px;
-    height: 30px;
-    vertical-align: bottom;
+    width: 40px;
+    height: 40px;
+    transform: translateY(25%);
     border-radius: 50%;
 }
   
