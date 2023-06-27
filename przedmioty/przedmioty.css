@@ -94,7 +94,7 @@ table {
     font-size: 20px;
 }
 .OnSale img {
-    width: 50%;
+    width: 75%;
     height: auto;
 }
 .OnSale table {
@@ -103,7 +103,10 @@ table {
     padding-top: 25px;
 }
 .OnSale p {
+    margin-left: 40px;
     word-break: break-all;
+    width: 75%;
+    text-align: center;
 }
 
 
