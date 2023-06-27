@@ -63,29 +63,36 @@ th {
     text-align: center;
     width: 1%;
 }
-.dropdown {
-    position: relative;
-    display: inline-block;
-}
-.dropdown-content {
-    display: none;
-    position: absolute;
+.button_1 {
     background-color: #292b2a;
-    max-width: 100px;
-    z-index: 1;
-}
-.dropdown-content a  {
     color: white;
-    padding-left: 25%;
-    padding-right: 25%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    text-decoration: none;
-    display: inline-block;
+    border: none;
+    width: auto;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
 }
-.dropdown-content a:hover {
-    background-color: #ddd;
-    display: inline-block;
+.button_1:hover{
+    color: #4f4d4d;
+    transition-duration: 0.4s;
+    cursor: pointer;
 }
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+.button_2 {
+    background-color: #292b2a;
+    color: #4f4d4d;
+    border: none;
+    width: auto;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+
 
   
