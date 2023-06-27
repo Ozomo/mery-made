@@ -93,7 +93,18 @@ table {
     margin-bottom: 10px;
     font-size: 20px;
 }
-
+.OnSale img {
+    width: 50%;
+    height: auto;
+}
+.OnSale table {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 25px;
+}
+.OnSale p {
+    word-break: break-all;
+}
 
 
   
