@@ -57,7 +57,7 @@ body {
 .tekst {
     text-align: center;
     padding-top: 30px;
-    font-size: 25px;
+    font-size: 40px;
 }
 .buttons {
     background-color: #292b2a;
@@ -68,9 +68,9 @@ a {
     text-decoration:none;
 }
 .profilowe {
-    width: 40px;
-    height: 40px;
-    transform: translateY(25%);
+    width: 70px;
+    height: 70px;
+    transform: translateY(35%);
     border-radius: 50%;
 }
   
